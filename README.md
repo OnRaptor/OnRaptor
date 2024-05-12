@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Статистика GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onraptor&layout=compact)](https://github.com/djostit/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=onraptor)
 
 <!--
 **OnRaptor/OnRaptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
